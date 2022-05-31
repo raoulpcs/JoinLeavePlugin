@@ -1,0 +1,6 @@
+name: JoinLeavePlugin
+version: '${project.version}'
+main: me.raoulpcs.joinleaveplugin.JoinLeavePlugin
+api-version: 1.18
+authors: [ Itz_Raoulpcs_ ]
+description: JoinLeavePlugin
